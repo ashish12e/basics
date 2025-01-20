@@ -1,0 +1,5 @@
+1;biscuit;10;7
+2;namkeen;5;50
+3;milkybar;12;93
+4;laptop;599;90
+5;book;30;30
