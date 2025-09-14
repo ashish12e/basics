@@ -1,0 +1,11 @@
+[{"Country":"France","Age":44.0,"Salary":72000.0,"Purchased":"Yes"},
+{"Country":"Spain","Age":27.0,"Salary":48000.0,"Purchased":"Yes"},
+{"Country":null,"Age":30.0,"Salary":54000.0,"Purchased":null},
+{"Country":"Spain","Age":38.0,"Salary":61000.0,"Purchased":"No"},
+{"Country":"Germany","Age":40.0,"Salary":null,"Purchased":"Yes"},
+{"Country":"France","Age":35.0,"Salary":58000.0,"Purchased":"Yes"},
+{"Country":"Spain","Age":null,"Salary":52000.0,"Purchased":"No"},
+{"Country":"France","Age":48.0,"Salary":79000.0,"Purchased":"Yes"},
+{"Country":"Germany","Age":50.0,"Salary":83000.0,"Purchased":"No"},
+{"Country":"France","Age":37.0,"Salary":67000.0,"Purchased":"Yes"}
+]
